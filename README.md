@@ -11,7 +11,7 @@ Requirements and inclusions:
 
 *k*-values with any of the following conditions are excluded from the conjectures:
 
-1. All *n*-values are covered by one trivial factor
+1. All *n*-values are covered by one trivial factor (i.e. *gcd*(*k*,*b*) > 1 (for dual Sierpinski/Riesel conjectures) or *gcd*(*k*+1,*b*−1) > 1 (for original/dual Sierpinski conjectures) or *gcd*(*k*−1,*b*−1) > 1 (for original/dual Riesel conjectures)
 2. All *n*-values are covered by algebraic factors or a combination of algebraic and trivial factor(s)
 3. Make generalized Fermat numbers, i.e. *q*<sup>*m*</sup>×*b*<sup>*n*</sup>+1 where *m* ≥ 0 and *q* is a root of the base *b* (for original Sierpinski conjectures) or *b*<sup>*n*</sup>+1 (for dual Sierpinski conjectures)
 4. *k* is a multiple of base (*b*) and *k*+1 (for Sierpinski) or *k*−1 (for Riesel) is not prime. They will have the same prime as *k*/*b* (for original Sierpinski/Riesel conjectures)
@@ -45,6 +45,6 @@ Requirements and inclusions:
 
 For the text files of the dual Sierpinski/Riesel conjectures: (only list the *k* which have opposite parity as *b*, i.e. odd *k* for even *b*, or even *k* for odd *b*)
 
-* "TRIV": All *n*-values are covered by one trivial factor (must be >2, since *k* and *b* have opposite parity)
+* "TRIV": All *n*-values are covered by one trivial factor (must be >2, since *k* and *b* have opposite parity) (i.e. *gcd*(*k*,*b*) > 1 (for dual Sierpinski/Riesel conjectures) or *gcd*(*k*+1,*b*−1) > 1 (for original/dual Sierpinski conjectures) or *gcd*(*k*−1,*b*−1) > 1 (for original/dual Riesel conjectures)
 * "ALG": All *n*-values are covered by algebraic factors or a combination of algebraic and trivial factor(s)
 * "GFN": Make generalized Fermat numbers, i.e. *q*<sup>*m*</sup>×*b*<sup>*n*</sup>+1 where *m* ≥ 0 and *q* is a root of the base *b* (for original Sierpinski conjectures) or *b*<sup>*n*</sup>+1 (for dual Sierpinski conjectures)
