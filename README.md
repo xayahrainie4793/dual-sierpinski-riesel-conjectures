@@ -42,3 +42,9 @@ Requirements and inclusions:
 |23|182|3, 5, 53|476|3, 5, 53|182|3, 5, 53|712<br>(although *k* = 476 also has covering set {3, 5, 53}, but 23<sup>2</sup>−476 is indeed 53, thus *k* = 476 is not dual Riesel)|3, 5, 53|
 |24|30651|5, 7, 13, 73, 79|32336|5, 7, 13, 73, 577|176011|5, 7, 13, 73, 79|124031|5, 7, 13, 349, 577|
 |25|262638|7, 13, 31, 601|346802|7, 13, 31, 601|262638|7, 13, 31, 601|346802|7, 13, 31, 601|
+
+For the text files of the dual Sierpinski/Riesel conjectures: (only list the *k* which have opposite parity as *b*, i.e. odd *k* for even *b*, or even *k* for odd *b*)
+
+* "TRIV": All *n*-values are covered by one trivial factor (must be >2, since *k* and *b* have opposite parity)
+* "ALG": All *n*-values are covered by algebraic factors or a combination of algebraic and trivial factor(s)
+* "GFN": Make generalized Fermat numbers, i.e. *q*<sup>*m*</sup>×*b*<sup>*n*</sup>+1 where *m* ≥ 0 and *q* is a root of the base *b* (for original Sierpinski conjectures) or *b*<sup>*n*</sup>+1 (for dual Sierpinski conjectures)
