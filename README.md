@@ -103,7 +103,10 @@ Requirements and inclusions:
 
 For the original Sierpinski/Riesel conjectures, there is already a project http://www.noprimeleftbehind.net/crus/, the subpages are:
 
-
+* http://www.noprimeleftbehind.net/crus/Sierp-conjectures.htm (Sierpinski conjectures, non-power-of-2 bases *b*)
+* http://www.noprimeleftbehind.net/crus/Sierp-conjectures-powers2.htm (Sierpinski conjectures, power-of-2 bases *b*)
+* http://www.noprimeleftbehind.net/crus/Riesel-conjectures.htm (Riesel conjectures, non-power-of-2 bases *b*)
+* http://www.noprimeleftbehind.net/crus/Riesel-conjectures-powers2.htm (Riesel conjectures, power-of-2 bases *b*)
 
 and there is "all-ks" text files in these pages, also, for these text files for the original Sierpinski/Riesel conjectures and for the text files of the dual Sierpinski/Riesel conjectures in this page (not list the *k* with trivial factor 2, i.e. for the original Sierpinski/Riesel conjectures, not list odd *k* for odd *b*, and for the dual Sierpinski/Riesel conjectures, only list the *k* which have opposite parity as *b*, i.e. odd *k* for even *b*, or even *k* for odd *b*):
 
