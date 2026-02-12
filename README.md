@@ -99,9 +99,14 @@ Requirements and inclusions:
 |80|1039|3, 7, 13, 43, 173|253|3, 37, 173|1039|3, 7, 13, 43, 173|253|3, 37, 173|
 |81|6068|7, 13, 73|74|7, 13, 73|6068|7, 13, 73|2692<br>(although *k* = 74 also has covering set {7, 13, 73}, but 81<sup>1</sup>−74 is indeed 7, thus *k* = 74 is not dual Riesel)|7, 13, 73|
 
-For the text files of the dual Sierpinski/Riesel conjectures: (only list the *k* which have opposite parity as *b*, i.e. odd *k* for even *b*, or even *k* for odd *b*)
+For the original Sierpinski/Riesel conjectures, there is already a project http://www.noprimeleftbehind.net/crus/, the subpages are:
+
+
+
+and there is "all-ks" text files in these pages, also, for these text files for the original Sierpinski/Riesel conjectures and for the text files of the dual Sierpinski/Riesel conjectures in this page (not list the *k* with trivial factor 2, i.e. for the original Sierpinski/Riesel conjectures, not list odd *k* for odd *b*, and for the dual Sierpinski/Riesel conjectures, only list the *k* which have opposite parity as *b*, i.e. odd *k* for even *b*, or even *k* for odd *b*):
 
 * "TRIV": All *n*-values are covered by one trivial factor (must be >2, since *k* and *b* have opposite parity) (i.e. *gcd*(*k*,*b*) > 1 (for dual Sierpinski/Riesel conjectures) or *gcd*(*k*+1,*b*−1) > 1 (for original/dual Sierpinski conjectures) or *gcd*(*k*−1,*b*−1) > 1 (for original/dual Riesel conjectures)
 * "ALG": All *n*-values are covered by algebraic factors or a combination of algebraic and trivial factor(s)
 * "GFN": Make generalized Fermat numbers, i.e. *q*<sup>*m*</sup>×*b*<sup>*n*</sup>+1 where *m* ≥ 0 and *q* is a root of the base *b* (for original Sierpinski conjectures) or *b*<sup>*n*</sup>+1 (for dual Sierpinski conjectures)
+* "MOB": *k* is a multiple of base (*b*) and *k*+1 (for Sierpinski) or *k*−1 (for Riesel) is not prime (for original Sierpinski/Riesel conjectures)
 * "REM": No (probable) primes found for this *k* (search limit: 10000)
