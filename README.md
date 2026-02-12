@@ -3,6 +3,8 @@
 * Dual Sierpinski conjecture base *b*: Finding and proving the smallest *k* such that *b*<sup>*n*</sup>+*k* is composite for all *n* ≥ 1
 * Dual Riesel conjecture base *b*: Finding and proving the smallest *k* such that *b*<sup>*n*</sup>−*k* is composite for all *n* ≥ 1 such that *b*<sup>*n*</sup> > *k*+1
 
+(for more information of "dual", see: http://www.kurims.kyoto-u.ac.jp/EMIS/journals/INTEGERS/papers/i61/i61.pdf (cached copy at https://github.com/xayahrainie4793/pdf-files-cached-copy/blob/main/pdf_1.pdf), https://www.rechenkraft.net/wiki/Five_or_Bust, https://oeis.org/A076336/a076336c.html, http://www.mit.edu/~kenta/three/prime/dual-sierpinski/ezgxggdm/dualsierp-excerpt.txt, http://web.mit.edu/kenta/www/three/prime/dual-sierpinski/ezgxggdm/dualsierp.txt.gz, https://www.primegrid.com/download/5ob_all.html, http://www.bitman.name/math/article/1126 (in Italian), http://www.bitman.name/math/article/1125 (in Italian), https://www.mersenneforum.org/showpost.php?p=144991&postcount=1, https://www.mersenneforum.org/showthread.php?t=10761, https://www.mersenneforum.org/showthread.php?t=6545)
+
 Requirements and inclusions:
 
 1. Conjectures must have a finite covering set
