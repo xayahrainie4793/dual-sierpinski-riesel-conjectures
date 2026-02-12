@@ -97,7 +97,7 @@ Requirements and inclusions:
 |78|186123|5, 79, 1217|90059|5, 79, 1217|576859|5, 79, 1217|90059|5, 79, 1217|
 |79|2212516|5, 7, 43, 6163|1965996|5, 7, 43, 6163|2212516|5, 7, 43, 6163|1965996|5, 7, 43, 6163|
 |80|1039|3, 7, 13, 43, 173|253|3, 37, 173|1039|3, 7, 13, 43, 173|253|3, 37, 173|
-|81|6068|7, 13, 73|74|7, 13, 73|6068|7, 13, 73|2692|7, 13, 73|
+|81|6068|7, 13, 73|74|7, 13, 73|6068|7, 13, 73|2692<br>(although *k* = 74 also has covering set {7, 13, 73}, but 81<sup>1</sup>−74 is indeed 7, thus *k* = 74 is not dual Riesel)|7, 13, 73|
 
 For the text files of the dual Sierpinski/Riesel conjectures: (only list the *k* which have opposite parity as *b*, i.e. odd *k* for even *b*, or even *k* for odd *b*)
 
