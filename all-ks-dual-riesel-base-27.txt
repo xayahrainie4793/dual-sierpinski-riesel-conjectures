@@ -154,14 +154,7 @@
 308,2
 310,2
 312,TRIV
-  ***   at top-level: ...67,if(k%2==0,print(k,",",c(k))))
-  ***                                             ^-------
-  ***   in function c: ...V",if(ispower(k,3),"ALG",a(k,27)))
-  ***                                              ^---------
-  ***   in function a: for(n=1,10000,if(ispseudoprime(b^n-k),return(n
-  ***                                   ^-----------------------------
-  *** ispseudoprime: user interrupt after 2,203 ms
-(04:23) gp > for(k=315,1267,if(k%2==0,print(k,",",c(k))))
+314,7688
 316,7
 318,TRIV
 320,2
@@ -637,4 +630,5 @@
 1260,TRIV
 1262,TRIV
 1264,4
+
 1266,TRIV
