@@ -101,6 +101,14 @@ Requirements and inclusions:
 |80|1039|3, 7, 13, 43, 173|253|3, 37, 173|1039|3, 7, 13, 43, 173|253|3, 37, 173|
 |81|6068|7, 13, 73|74|7, 13, 73|6068|7, 13, 73|2692<br>(although *k* = 74 also has covering set {7, 13, 73}, but 81<sup>1</sup>−74 is indeed 7, thus *k* = 74 is not dual Riesel)|7, 13, 73|
 
+*OEIS* sequences for special *k*-values:
+
+|*k*|original Sierpinski|original Riesel|dual Sierpinski|dual Riesel|
+|---|---|---|---|---|
+|2|https://oeis.org/A119624, https://oeis.org/A253178 (only bases *b* which have possible primes), https://oeis.org/A098872 (*b* divisible by 6)|https://oeis.org/A119591, https://oeis.org/A098873 (*b* divisible by 6), https://oeis.org/A279095 (*b* of the form 2<sup>*r*</sup>)|https://oeis.org/A138066, https://oeis.org/A084713 (corresponding primes), https://oeis.org/A138067 (*n* = 1 not allowed)|https://oeis.org/A250200, https://oeis.org/A255707 (*n* = 1 allowed), https://oeis.org/A084714 (*n* = 1 allowed, corresponding primes), https://oeis.org/A292201 (prime *b*, *n* = 1 allowed)|
+|*b*−1|https://oeis.org/A305531, https://oeis.org/A087139 (prime *b*, *n* replaced by *n*+1)|https://oeis.org/A122396 (prime *b*, *n* replaced by *n*+1)|https://oeis.org/A076845, https://oeis.org/A076846 (corresponding primes), https://oeis.org/A078178 (*n* = 1 not allowed), https://oeis.org/A078179 (*n* = 1 not allowed, corresponding primes)|https://oeis.org/A113516, https://oeis.org/A343589 (corresponding primes)|
+|*b*+1|||https://oeis.org/A178250|https://oeis.org/A346149 (*n* = 1 not allowed), https://oeis.org/A346154 (*n* = 1 not allowed, corresponding primes)|
+
 For the original Sierpinski/Riesel conjectures, there is already a project http://www.noprimeleftbehind.net/crus/, the subpages are:
 
 * http://www.noprimeleftbehind.net/crus/Sierp-conjectures.htm (Sierpinski conjectures, non-power-of-2 bases *b*)
